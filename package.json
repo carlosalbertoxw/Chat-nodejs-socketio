@@ -1,0 +1,27 @@
+{
+  "name": "chat-nodejs-socketio",
+  "version": "1.0.0",
+  "description": "Chat con NodeJS y SocketIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosalbertoxw/chat-nodejs-socketio.git"
+  },
+  "author": "Carlos Alberto (carlosalbertoxw)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosalbertoxw/chat-nodejs-socketio/issues"
+  },
+  "homepage": "https://github.com/carlosalbertoxw/chat-nodejs-socketio#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
