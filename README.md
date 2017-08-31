@@ -1,2 +1,2 @@
 # chat-nodejs-socketio
-Chat con NodeJS y SocketIO
+Chat con NodeJS, Express y SocketIO
